@@ -28,7 +28,7 @@ fn app() -> Html{
         </div>
     }
 }
- 
+
 fn main() {
     yew::start_app::<App>();
  }
